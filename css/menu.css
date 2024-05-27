@@ -1,0 +1,33 @@
+
+.menuWrapper ul{  
+    display: flex;
+    margin-right: 35px;
+    margin-top: 87px;
+    
+}
+  
+  .listitem{
+      list-style: none;
+      text-decoration: none;
+      color: white;
+      font-family: Merriweather;
+      font-size: 20px; 
+      margin-left: 56px;
+      
+    }
+  
+
+    a{
+      text-decoration: none;
+      list-style: none;
+      color: white;
+    }
+
+.midItems{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    margin-top: 185px;
+    
+  }

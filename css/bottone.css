@@ -1,0 +1,27 @@
+
+.lin a{
+    font-size: 30px;
+    color: #080C71;
+    font-family: Merriweather;
+    text-decoration: none;
+    list-style: none;
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 120px;
+    padding-right: 120px;
+    border-radius: 15px;
+    margin-top: 45px;
+    
+    
+  }
+  
+  
+  .lin{
+    margin-top: 20px;
+    
+    border-top: solid;
+    border-top-color: rgb(255, 255, 255);
+    display: flex;
+  
+  }
